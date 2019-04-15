@@ -9,5 +9,5 @@ created to help summarize the NCAA Men's basketball historical data
 #### Exploring the predictions in a bracket
 [Visualization Tool](https://www.marksmath.org/visualization/kaggle_brackets/) to view how our model scored in the 2019 tournament. You can download the Submission CSV file from the repository and upload it to into the webpage. The page displays a bracket with games that have occurred shaded according to the prediction. Credit: [Mark McClure](https://www.marksmath.org/)
 
-##### Contributers
+#### Contributers
 Special shoutout to Michael Feeser, co-author of our prediction algorithm. Our model finished in the top 100 among over 1,500 model submissions in the competition, and correctly predicted the outcome for 47 of 63 games (winner predicted to win with odds greater than 50%). Looking forward to improving upon the result in 2020!
