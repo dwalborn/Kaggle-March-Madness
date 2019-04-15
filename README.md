@@ -1,8 +1,8 @@
-# Google Cloud & NCAA Men's ML Competition 2019
-### About
+## Google Cloud & NCAA Men's ML Competition 2019
+#### About
 Applying logistic regression in Python to predict the outcomes of the 2019 NCAA Men's Basketball Tournament. To view the code, please refer to the Submission Kernel markdown file, created using Jupyter notebooks. For more information about the competition, please see the [Kaggle Competition Page](https://www.kaggle.com/c/mens-machine-learning-competition-2019)
 
-### Data Visualization
+#### Data Visualization
 [Interactive Data Visualization in Power BI](https://msit.powerbi.com/view?r=eyJrIjoiNmNkMWQ1NzYtZjBkZS00ZjE3LWJlYWItNDBkZTVhNzg5ZDkzIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9)
 created to help summarize the NCAA Men's basketball historical data
 
